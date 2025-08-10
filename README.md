@@ -1,6 +1,8 @@
+## Conversor de monedas
+
 Proyecto en Java que consume la API [ExchangeRate API](https://www.exchangerate-api.com/) para mostrar tasas de cambio en tiempo real y convertir monedas de manera sencilla.
 
-# Características
+ Características
 - Consumo de API de tasas de cambio en tiempo real.
 - Filtrado de monedas de interés.
 - Manipulación de datos JSON con **Gson**.
